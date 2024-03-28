@@ -6,6 +6,7 @@ int main()
     
     scanf("%d/%d/%d",&d,&m,&y);
     
+    
     printf("%02d/%02d/%02d\n",m,d,y);
     printf("%02d/%02d/%02d\n",y,m,d);
     printf("%02d-%02d-%02d\n",d,m,y);
